@@ -1,4 +1,4 @@
-import 'package:cpims/auth.dart';
+import 'package:cpims/views/auth.dart';
 import 'package:flutter/material.dart';
 
 class SplashScreen extends StatefulWidget {

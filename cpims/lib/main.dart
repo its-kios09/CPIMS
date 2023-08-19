@@ -1,4 +1,4 @@
-import 'package:cpims/screen_splash.dart';
+import 'package:cpims/views/screen_splash.dart';
 import 'package:flutter/material.dart';
 
 void main() {
